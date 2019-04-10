@@ -105,3 +105,4 @@ AUTHORS text
 *.woff binary
 *.pyc binary
 *.pdf binary
+* text=auto eol=lf
