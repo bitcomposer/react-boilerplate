@@ -24,6 +24,16 @@ In my recent angular single page apps state has been the single biggest challeng
 ### UI Library
 ReactStrap - Add extra UI component libraries if needed as React is nice and flexible like that.
 
+### Setup
+```
+npm install
+```
+then 
+``` 
+npm run start
+```
+to start a server.  Any changes should be reflected in the browser on save.
+
 ### NPM Scripts
 ```
 npm run start
@@ -40,3 +50,4 @@ I have based the folder structure on the thoughts in this article:
 [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
 The ```npm run generate``` command can scaffold the scenes, scene components and sub scenes as well as containers and components.  
 I may do more work with this depending on how heavily it is used in the project as we are missing a service generator.
+
