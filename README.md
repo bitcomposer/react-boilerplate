@@ -19,10 +19,10 @@ prop-types
 react-router-dom
 flow
 
-In my recent angular single page apps state has been the single biggrst challenge facing these types of applications so the single source of truth offered by redux and the immutable paradigm are very attractive and it will be interesting to see if it ends up working as well as the hype suggests.  I have gone for sagas as it seems like a decent approach to handling the side effects of the actions such as API calls or websocket client side calls. Redux helps to stop the need for the anti pattern - 'prop drilling' so that is a nice tick on the plus side.
+In my recent angular single page apps state has been the single biggest challenge facing these types of applications so the single source of truth offered by redux and the immutable paradigm are very attractive and it will be interesting to see if it ends up working as well as the hype suggests.  I have gone for sagas as it seems like a decent approach to handling the side effects of the actions such as API calls or websocket client side calls. Redux helps to stop the need for the anti pattern - 'prop drilling' so that is a nice tick on the plus side.
 
 ### UI Library
-ReactStrap - Add extra UI component libraries if needed as React is nice and flexibile like that.
+ReactStrap - Add extra UI component libraries if needed as React is nice and flexible like that.
 
 ### NPM Scripts
 ```
