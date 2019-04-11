@@ -31,7 +31,8 @@ npm run build
 npm run lint
 npm run test
 npm run generate
-etc etc etc
+npm run flow
+etc
 ```
 
 ###Folder Structure
