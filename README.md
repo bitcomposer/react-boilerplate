@@ -1,6 +1,4 @@
-# Pulse Client - Please readme.
-
-A modern replacement for the flex based Pulse client.
+# React Client - Please readme.
 
 In the standardjs ideology of you have to pick something rather than arguing for ever over polarising sticking points, I have gone ahead and chosen a starting point and libraries for the Pulse project.  You may not agree with them but it will ease your javascript fatigue as I have taken that pain on your behalf.
 
