@@ -6,7 +6,7 @@ I have used react-boilerplate as the base for the project as although react crea
 
 Javascript is the way to go due to it's ubiquity.  Flow will add type checking so we have the main benefit of Typescript available anyway.
 
-###Libraries
+### Libraries
 
 react
 redux
